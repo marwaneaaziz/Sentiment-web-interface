@@ -19,9 +19,11 @@ docker-compose up -d
 
 Afterwards the image will be up.
 
-## How to test/use the app ?
+## How to use the app ?
 
 In a CLI, type `ipconfig` then  get your `IPv4 address` of your wireless wifi network card;
 As mentionned in the `docker-compose.yml` file, the web app's port is set to 3000, so connect to the address and try out our sentiment application ! 
+
+
 
 HAVE FUN :) 
